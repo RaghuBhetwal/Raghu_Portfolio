@@ -16,8 +16,16 @@ Data Analytics
 
 
 
+## [Project 3: Hotel_Data_Analysis_PowerBI](https://github.com/RaghuBhetwal/Hotel_Data_Analysis_PowerBI)
 
-## [Project 3: Boston House Price Prediction Flask Webapp](https://github.com/RaghuBhetwal/Boston_House_price)
+ * This Power BI dashboard was created to help hotel managers better understand their business operations and make data-driven decisions.
+
+## Dashboard::
+
+ ![image](https://user-images.githubusercontent.com/88844603/230744812-61eaa5b6-8c3c-4083-affd-941f033c968d.png)
+
+
+## [Project 4: Boston House Price Prediction Flask Webapp](https://github.com/RaghuBhetwal/Boston_House_price)
 * A Flask application was created using the trained model, allowing the user to input values for the various features and receive a predicted median value for their house.
 
 
